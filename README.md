@@ -35,7 +35,7 @@ Subsequently, time-dependent variables such as **torque** and **joint angles**, 
 
 # Modeling of a three link manipulator
 
-![image](images/3DoFArm.png)
+![image](images/3dof_arm.png)
 
 ## Inverse Dynamics
 Using **inverse dynamics** to determined the torques which are required to manipulate the multi-body system so that the desired joint angles are achieved. Within the scope of this project, these torques are applied as a **load torque** ($\tau_l$) to the actuators. For this calculation, the **Lagrange formulation** is utilized. The advantage of this formulation lies in the fact that the equations of motion can be calculated using a systematic computational procedure (Siciliano et al., 2009, p. 248).
