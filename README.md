@@ -9,7 +9,7 @@ To run the MATLAB files, the following extensions must be installed:
 * **Symbolic Math Toolbox**
 
 > [!IMPORTANT]
-> Before opening the `Griesche_Nico_92100873_DLBROPMSR01_SIMULATION` file, you **must** execute the `Griesche_Nico_92100873_DLBROPMSR01_DYNAMIC_CALCULATION` file. This ensures the robot tree is loaded and the trajectory is stored in the workspace.
+> Before opening the `3dof_manipulator_simulation.srx` file, you **must** execute the `3dof_dynamics_calculation.mlx` file. This ensures the robot tree is loaded and the trajectory is stored in the workspace.
 
 ---
 
